@@ -1,16 +1,16 @@
-### Olá eu sou o Gustavo gosto de programação
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igugx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igugx&layout=compact&langs_count=7&theme=dracula"/>
+### Olá eu sou o Gustavo!! Buscando se profionalizar no Mercado de TI
+<div align="center">
+  <a href="https://github.com/igugx">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=igugx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igugx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gugs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Programo em  puro em :p" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-    <img align="center" alt="Porque não c++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" alt="Gugs-cpp-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-    <img align="center" alt="Gugs-cpp-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="c-icon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+    <img align="center" alt="cpp-icon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" alt="cpp-icon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+    <img align="center" alt="cpp-icon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
     <br>
     <br>
     <br>
