@@ -1,6 +1,6 @@
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
-  ![image](https://user-images.githubusercontent.com/108258194/191619245-80b01a86-0fa3-49d3-9437-5a0afd335d54.png)
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
 
   <a href="https://github.com/igugx">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=igugx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igugx&layout=compact&langs_count=7&theme=dracula"/>
