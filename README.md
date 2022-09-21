@@ -11,7 +11,8 @@
     <img align="center" alt="Porque não c++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" alt="Gugs-cpp-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
     <img align="center" alt="Gugs-cpp-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-
+<a href="https://www.linkedin.com/in/jos%C3%A9-gustavo-b8aa70238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 <!--
 **igugx/igugx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
