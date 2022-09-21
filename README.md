@@ -1,4 +1,4 @@
-## Oiii eu sou o Gustavo x20, criador de conteúdo de programação e tecnologia!
+## Dê um estado a alguém e eles terão um bug um dia, mas ensine-os a representar o estado em dois locais separados que devem ser mantidos em sincronia e eles terão bugs por toda a vida
 <div align="center">
   <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
 
