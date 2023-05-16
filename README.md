@@ -35,9 +35,16 @@
 
 </p>
   <caption><b>Memes para descontrair 🤣 </caption>
-  
+  <br>
+  <hr>
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtSsm0%2Fbtrp00uk88r%2FKrfeV5ikdTKEKWt0KO66A0%2Fimg.jpg">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJYDawJ6u23_VZmIpJj3S9oCSPfVzAK8L1w&usqp=CAU">
   
-  
+  <br>
+  <hr>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCJPia1kXg7FdX6OluYmVO_CcTKBeqHV6rw&usqp=CAU">
+  <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TP-lM-LVwupI47q6R1tANVrTrn_nlOROUw&usqp=CAU">
+  <br>
+  <hr>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUbQ6DEjIPzbu7GWjpGjfXSkR-FS2Zep7oA&usqp=CAU">
