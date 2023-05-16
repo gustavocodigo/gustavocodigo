@@ -3,7 +3,12 @@
 </p>
 
 ## Principais tecnologias
-<img height="120" src="https://user-images.githubusercontent.com/108258194/238660742-91de84da-99f5-4842-b5eb-707599416dc5.png"><img height="120" src="https://user-images.githubusercontent.com/108258194/238660982-ebb14e6f-ad3b-4198-b468-4dfecd26d9b0.png"><img height="120" src="https://user-images.githubusercontent.com/108258194/238770335-60588136-82b0-4631-b519-1ced65d621f3.png">
+
+<img height="120" src="https://user-images.githubusercontent.com/108258194/238660742-91de84da-99f5-4842-b5eb-707599416dc5.png"><img height="120" src="https://user-images.githubusercontent.com/108258194/238660982-ebb14e6f-ad3b-4198-b468-4dfecd26d9b0.png">  <img height="120" src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/4d9401cf-1d82-46e6-8fc9-4f04dc8d5ca2">
+>
+
+
+
 <ul>
   <li> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Javascript </li>
   <li> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> HTML </li>
