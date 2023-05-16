@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
-</p>
+
 
 ## Principais tecnologias
 
@@ -31,6 +29,11 @@
   
   
   <hr>
+  <p align="center">
+
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
+
+</p>
   <caption><b>Memes para descontrair 🤣 </caption>
   
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtSsm0%2Fbtrp00uk88r%2FKrfeV5ikdTKEKWt0KO66A0%2Fimg.jpg">
