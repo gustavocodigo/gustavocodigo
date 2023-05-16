@@ -16,9 +16,7 @@
     <li> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> Python </li>
     <li> <img  width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> & Github</li>
   </ul>
-
-  
-  <img height=400 src="https://user-images.githubusercontent.com/108258194/238660742-91de84da-99f5-4842-b5eb-707599416dc5.png">
+</div><img height=400 src="https://user-images.githubusercontent.com/108258194/238660742-91de84da-99f5-4842-b5eb-707599416dc5.png">
 
 
           
