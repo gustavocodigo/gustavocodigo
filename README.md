@@ -19,18 +19,19 @@
 
 <h3>Certificação</h3>
 <img width=150 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
-<ul>
+
+## Contato
   
   
   <br>
   
-  ## contato
-  <br>
+  
+ 
   <li><b>Email:</b> gilapesgus@gmail.com</li> 
   
   
   <hr>
-  <caption> memes </caption>
+  <caption><b>Memes para descontrair 🤣 </caption>
   
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtSsm0%2Fbtrp00uk88r%2FKrfeV5ikdTKEKWt0KO66A0%2Fimg.jpg">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJYDawJ6u23_VZmIpJj3S9oCSPfVzAK8L1w&usqp=CAU">
