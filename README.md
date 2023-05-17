@@ -61,6 +61,7 @@ Carga Horaria <b>120h</b> mais</p>
 
 
 ## Status de atividade
+Maravilhos mundo <b>open source</b>
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocodigo&show_icons=true&count_private=true)
 
 </p>
@@ -88,5 +89,8 @@ Carga Horaria <b>120h</b> mais</p>
   <hr>
  
 ## Realidade
-Aquele que perde tempo discutindo em qual é melhor linux ou windows, não conhece como usar ambos em sincronia.
-
+<p>Aquele que perde tempo discutindo em qual é melhor linux ou windows, não conhece como usar ambos em sincronia.
+          </p>
+<hr>
+<p>
+<b>Github</b> é o lugar onde a humanidade está construindo o futuro</p>
