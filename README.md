@@ -32,7 +32,7 @@ Linux (ubuntu)
   <br>
   <br>
   <br>
-  <li><b>SISTEC - Montador e reparador de computadores (presencial)</b>
+  <li><b>PRONATEC - Montador e reparador de computadores (presencial)</b>
     
     
   <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
