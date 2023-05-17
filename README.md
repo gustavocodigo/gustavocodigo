@@ -88,9 +88,4 @@ Maravilhos mundo <b>open source</b>
   
   <hr>
  
-## Realidade
-<p>Aquele que perde tempo discutindo em qual é melhor linux ou windows, não conhece como usar ambos em sincronia.
-          </p>
-<hr>
-<p>
-<b>Github</b> é o lugar onde a humanidade está construindo o futuro</p>
+
