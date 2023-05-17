@@ -11,9 +11,10 @@
 
 <ol>
 <li>Javascript</li>
-<li>HTML</li>
 <li>CSS</li>
+<li>HTML</li>
 <li>git & github</li>
+<li>Visual Studio Code </li>
 </ol>
 
 
