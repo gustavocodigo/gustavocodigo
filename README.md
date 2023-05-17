@@ -56,7 +56,7 @@ Carga Horaria <b>120h</b> mais</p>
   
   <br>
 
-  <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZzbLd2htyXQdgi9SaJ9z7FQCeduktSvWRSUiEuyf07Nfa7LPV4PkYcSm&s=10">
+  <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZzbLd2htyXQdgi9SaJ9z7FQCeduktSvWRSUiEuyf07Nfa7LPV4PkYcSm&s=10"> <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSgYAgAxeWYzq3EBcRJZOAsHwtHUzyhCcJQ&usqp=CAU">
   <hr>
   <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCJPia1kXg7FdX6OluYmVO_CcTKBeqHV6rw&usqp=CAU">  <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TP-lM-LVwupI47q6R1tANVrTrn_nlOROUw&usqp=CAU">
   <hr>
@@ -66,4 +66,4 @@ Carga Horaria <b>120h</b> mais</p>
   <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUbQ6DEjIPzbu7GWjpGjfXSkR-FS2Zep7oA&usqp=CAU">
   
   <hr>
-  <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSgYAgAxeWYzq3EBcRJZOAsHwtHUzyhCcJQ&usqp=CAU">
+ 
