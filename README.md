@@ -13,8 +13,8 @@
 
 <pre>
 Javascript
-CSS
 HTML
+CSS
 Git
 Github
 Visual Studio Code
