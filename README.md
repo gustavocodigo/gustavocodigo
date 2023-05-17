@@ -55,6 +55,8 @@ Carga Horaria <b>120h</b> mais</p>
   
   <br>
   <hr>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZzbLd2htyXQdgi9SaJ9z7FQCeduktSvWRSUiEuyf07Nfa7LPV4PkYcSm&s=10">
+  <hr>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCJPia1kXg7FdX6OluYmVO_CcTKBeqHV6rw&usqp=CAU">
   <hr>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TP-lM-LVwupI47q6R1tANVrTrn_nlOROUw&usqp=CAU">
