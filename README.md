@@ -50,12 +50,12 @@ Carga Horaria <b>120h</b> mais</p>
   <caption><b>Memes para descontrair 🤣 </caption>
   <br>
   <hr>
-  <img width=360 src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtSsm0%2Fbtrp00uk88r%2FKrfeV5ikdTKEKWt0KO66A0%2Fimg.jpg">
+  <img width=360 src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtSsm0%2Fbtrp00uk88r%2FKrfeV5ikdTKEKWt0KO66A0%2Fimg.jpg"> <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJYDawJ6u23_VZmIpJj3S9oCSPfVzAK8L1w&usqp=CAU">
   <hr>
-  <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJYDawJ6u23_VZmIpJj3S9oCSPfVzAK8L1w&usqp=CAU">
+ 
   
   <br>
-  <hr>
+
   <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZzbLd2htyXQdgi9SaJ9z7FQCeduktSvWRSUiEuyf07Nfa7LPV4PkYcSm&s=10">
   <hr>
   <img width=360 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCJPia1kXg7FdX6OluYmVO_CcTKBeqHV6rw&usqp=CAU">
