@@ -18,8 +18,7 @@ CSS
 Git
 Github
 Visual Studio Code
-Linux
-Windows
+Linux (ubuntu)
 </pre>
 
 
