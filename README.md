@@ -23,7 +23,7 @@
 <img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
   
   
-  <li><b>Montador e reparador de computadores (presencial)</b>
+  <li><b>SISTEC - Montador e reparador de computadores (presencial)</b>
     
     
   <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
