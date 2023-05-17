@@ -15,9 +15,21 @@
   <li><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Visual Studio Code</li>
 </ul>
 
-<h3>Certificação</h3>
-<img width=150 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
-
+<h3>Certificações</h3>
+<ul>
+  <li><b>Trilha Conectar (online)</b>
+    <p>Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação.</p>
+   </li>
+<img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
+  
+  
+  <li><b>Montador e reparador de computadores (presencial)</b>
+    
+    
+  <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
+Carga Horaria <b>120h</b> mais</p>
+  </li>
+  
 ## Contato
   
   
