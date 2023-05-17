@@ -54,7 +54,7 @@ Carga Horaria <b>120h</b> mais</p>
 
 
 ## Status de atividade
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocodigo&show_icons=true&theme=dracula&count_private=true)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocodigo&show_icons=true&count_private=true)
 
 </p>
   <caption><b>Memes para descontrair 🤣 </caption>
