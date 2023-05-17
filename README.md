@@ -87,3 +87,6 @@ Carga Horaria <b>120h</b> mais</p>
   
   <hr>
  
+## Realidade
+Aquele que perde tempo discutindo em qual é melhor linux ou windows, não conhece como usar ambos em sincronia.
+
