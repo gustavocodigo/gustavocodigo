@@ -11,14 +11,12 @@
 
 
 <pre>
-╔══════════════════════╦═════════════╗
-║     Javascript       ║    CSS      ║
-╠══════════════════════╬═════════════╣
-║        HTML          ║ git github  ║
-╠══════════════════════╩═════════════╣
-║  Visual Studio Code                ║
-╚════════════════════════════════════╝
-
+Javascript
+CSS
+HTML
+Git
+Github
+Visual Studio Code
 </pre>
 
 
