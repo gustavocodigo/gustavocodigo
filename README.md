@@ -29,7 +29,8 @@
   <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
 Carga Horaria <b>120h</b> mais</p>
   </li>
-  
+ </ul>
+ 
 ## Contato
   
   
@@ -40,7 +41,7 @@ Carga Horaria <b>120h</b> mais</p>
   <li><b>Email:</b> gilapesgus@gmail.com</li> 
   
   
-  <hr>
+  
   <p align="center">
 
   <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
