@@ -62,6 +62,7 @@ Carga Horaria <b>120h</b> mais</p>
 
 ## Status de atividade
 Maravilhos mundo <b>open source</b>
+<br>
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocodigo&show_icons=true&count_private=true)
 
 </p>
