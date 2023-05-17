@@ -7,7 +7,7 @@
 
 
 ## Status de atividade
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocodigo&show_icons=true&theme= ̣dracula·&count_private=true)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocodigo&show_icons=true&theme=dracula&count_private=true)
 ## Principais tecnologias
 <ul>
   <li> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Javascript </li>
