@@ -16,6 +16,7 @@
 Javascript
 HTML
 CSS
+React JS
 Git
 Github
 Visual Studio Code
