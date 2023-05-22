@@ -6,11 +6,14 @@
 
 
 
-<ol>
-       <li>https://gustavocodigo.github.io/TicTacToeGame/</li>
-       <li>https://github.com/gustavocodigo/Youtube-downloader</li>
-       <li>https://gustavocodigo.github.io/MyFrontEndRoadMap/</li>
+
+  <ol>
+  <li><a href="https://gustavocodigo.github.io/TicTacToeGame/">TicTacToeGame</a></li>
+  <li><a href="https://github.com/gustavocodigo/Youtube-downloader">Youtube-downloader</a></li>
+  <li><a href="https://gustavocodigo.github.io/MyFrontEndRoadMap/">MyFrontEndRoadMap</a></li>
 </ol>
+
+
 
 
 ## Principais tecnologias
