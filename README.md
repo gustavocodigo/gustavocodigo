@@ -8,9 +8,9 @@
 
 
   <ol>
-  <li><a href="https://gustavocodigo.github.io/TicTacToeGame/">TicTacToeGame</a></li>
-  <li><a href="https://github.com/gustavocodigo/Youtube-downloader">Youtube-downloader</a></li>
-  <li><a href="https://gustavocodigo.github.io/MyFrontEndRoadMap/">MyFrontEndRoadMap</a></li>
+  <li><a href="https://gustavocodigo.github.io/TicTacToeGame/">TicTac Toe Game</a></li>
+  <li><a href="https://github.com/gustavocodigo/Youtube-downloader">Youtube Video Downloader</a></li>
+  <li><a href="https://gustavocodigo.github.io/MyFrontEndRoadMap/">MyFrontEnd Roadmap</a></li>
 </ol>
 
 
