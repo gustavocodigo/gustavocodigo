@@ -32,6 +32,8 @@ Visual Studio Code
 Linux (ubuntu)
 </pre>
 
+**Estudo por conta própria busco documentação e sei pesquisar..
+
 
 <h3>Certificações</h3>
 <h6>PRONATEC - curso técnico (presencial)</h6>
