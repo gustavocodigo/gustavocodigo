@@ -34,8 +34,14 @@ Linux (ubuntu)
 
 
 <h3>Certificações</h3>
-
-  <h6>RocketSeat</h6>
+<h6>PRONATEC - curso técnico (presencial)</h6>
+   <li><b>Montador e reparador de computadores</b>
+    
+    
+  <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
+Carga Horaria <b>120h</b> mais</p>
+  </li>
+  <h6>ROCKETSEAT - discover</h6>
   <li><b>Trilha Conectar (online)</b> (100%)
     <p>Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação.</p>
    </li>
@@ -45,12 +51,7 @@ Linux (ubuntu)
   <br>
   <br>
   <br>
-  <li><b>PRONATEC - Montador e reparador de computadores - presencial (100%)</b>
-    
-    
-  <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
-Carga Horaria <b>120h</b> mais</p>
-  </li>
+ 
  
  
 ## Contato
