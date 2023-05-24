@@ -36,15 +36,16 @@ Linux (ubuntu)
 <h3>Certificações</h3>
 
   <h6>RocketSeat</h6>
-  <li><b>Trilha Conectar (online)</b>
+  <li><b>Trilha Conectar (online)</b> (100%)
     <p>Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação.</p>
    </li>
 <!-- <img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
    -->
+   <li><b>Trilha fundamentar</b> (20%)<br>(em andamento)</li>
   <br>
   <br>
   <br>
-  <li><b>PRONATEC - Montador e reparador de computadores (presencial)</b>
+  <li><b>PRONATEC - Montador e reparador de computadores - presencial (100%)</b>
     
     
   <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
