@@ -35,11 +35,12 @@ Linux (ubuntu)
 
 <h3>Certificações</h3>
 
+  <h6>RocketSeat</h6>
   <li><b>Trilha Conectar (online)</b>
     <p>Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação.</p>
    </li>
-<img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
-  
+<!-- <img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
+   -->
   <br>
   <br>
   <br>
