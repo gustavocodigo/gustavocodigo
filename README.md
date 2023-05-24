@@ -41,6 +41,7 @@ Linux (ubuntu)
   <p>Exercicios teoricos e prático de forma mais aprofundada no hardware do computador redes e sistemas operacionais.
 Carga Horaria <b>120h</b> mais</p>
   </li>
+<hr>
   <h6>ROCKETSEAT - discover</h6>
   <li><b>Trilha Conectar (online)</b> (100%)
     <p>Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação.</p>
@@ -48,6 +49,7 @@ Carga Horaria <b>120h</b> mais</p>
 <!-- <img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
    -->
    <li><b>Trilha fundamentar</b> (20%)<br>(em andamento)</li>
+   <hr>
   <br>
   <br>
   <br>
