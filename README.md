@@ -56,7 +56,7 @@ Linux (ubuntu)
 Carga Horaria <b>120h</b> mais</p>
   </li>
 <hr>
-  <h6>ROCKETSEAT - discover</h6>
+  <h6>ROCKETSEAT</h6>
   <li><b>Trilha Conectar (online)</b> (100%)
     <p>Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação.</p>
    </li>
