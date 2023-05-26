@@ -63,7 +63,7 @@ Carga Horaria <b>120h</b> mais</p>
    </li>
 <!-- <img width=180 src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/88a68eb5-0958-43c6-a87a-96fd9ac96f14">
    -->
-   <li><b>Trilha fundamentar</b><br>(em andamento)</li>
+   <li><b>Trilha fundamentar</b><br>(100%)</li>
    <hr>
   <br>
   <br>
