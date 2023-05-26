@@ -66,7 +66,7 @@ Carga Horaria <b>120h</b> mais</p>
    <li><b>Trilha fundamentar (online) </b>(100%)
 
 <p>
-       Essa trilha para ter a basida sólida de programação
+       Essa trilha para ter a base sólida de html, css, javascript, nodejs, git e mais.
        </p>
 </li>
    
