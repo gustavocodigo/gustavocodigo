@@ -1,5 +1,5 @@
 <b>Discord: </b>Gustavo Wallace#4656 <img width="12" src="https://cdn-icons-png.flaticon.com/512/210/210545.png"><br>
-<b>CONTADOR DE VISUALIZAÇOES:</b><br>
+<b>CONTADOR DE VISITAS:</b><br>
 <img src="https://count.getloli.com/get/@:gustavocodigo" alt=":name" />
 
 
