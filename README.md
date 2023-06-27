@@ -3,7 +3,7 @@
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavocodigo&color=ff0000&font_size=16&margin=0"> 
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavocodigo&color=cc43b5&font_size=16&margin=0"><br>
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavocodigo&color=cc43b5&font_size=16&margin=0"> 
-<img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavocodigo&color=ff0000&font_size=16&margin=0"> 
+<img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavocodigo&color=3dff6e&font_size=16&margin=0"> 
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavocodigo&color=f76757&font_size=16&margin=0"> 
 <p>Desenvolvedor web e sistemas !</p>
 <br>
