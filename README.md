@@ -1,5 +1,5 @@
 <b>Discord: </b>Gustavo Wallace#4656 <img width="12" src="https://cdn-icons-png.flaticon.com/512/210/210545.png"><br><br>
-<img src="https://gustavocodigo-colortext.glitch.me/generate?text=gustavo&color=f76757&font_size=16&margin=0"><img src="https://gustavocodigo-colortext.glitch.me/generate?text=codigo&color=ff0000&font_size=16&margin=0"> 
+
 <p>Desenvolvedor web e sistemas !</p>
 <br>
 <a href="https://gustavocodigo.github.io/TicTacToeGame/" target="__blank"><img height="110" src="https://user-images.githubusercontent.com/108258194/238660742-91de84da-99f5-4842-b5eb-707599416dc5.png"> <img height="110" src="https://user-images.githubusercontent.com/108258194/238660982-ebb14e6f-ad3b-4198-b468-4dfecd26d9b0.png"></a>  <a href="https://github.com/gustavocodigo/Youtube-downloader"> <img height="110" src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/4d9401cf-1d82-46e6-8fc9-4f04dc8d5ca2"></a>
