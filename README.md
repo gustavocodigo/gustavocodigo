@@ -45,6 +45,7 @@ Git
 Github
 Visual Studio Code
 Linux (ubuntu)
+Python, PHP, Lua 
 </pre>
 
 
