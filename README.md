@@ -3,7 +3,7 @@
 
 IDADE 21 - Sou de Forquilha-CE<br>
 Desenvolvedor web e sistemas !
-
+Amo TI
 
 <br>
 <b>Alguns Projetos desenvolvidos por conta própria.</b><br><br>
@@ -48,12 +48,9 @@ Criação de varios algoritimos em C / C++
 Javascript
 HTML
 CSS
-
-
 React JS
 Node JS
 Python
-
 Linux (ubuntu)
 Git
 </pre>
