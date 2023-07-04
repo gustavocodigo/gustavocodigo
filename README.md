@@ -48,12 +48,14 @@ Criação de varios algoritimos em C / C++
 Javascript
 HTML
 CSS
+
+
 React JS
-Git
-Github
-Visual Studio Code
+Node JS
+Python
+
 Linux (ubuntu)
-Python, PHP, Lua 
+Git
 </pre>
 
 
