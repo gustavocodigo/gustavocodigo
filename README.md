@@ -3,9 +3,6 @@
 
 Desenvolvedor web e sistemas !
 Amo TI
-
-
-<li>21y</li>
 <br>
 <b>Alguns Projetos desenvolvidos por conta própria.</b><br><br>
 <img src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/83c98be3-ca75-4007-8d14-7922acd99806" height=110>
