@@ -1,10 +1,11 @@
 
 <b>Discord: </b>Gustavo Wallace#4656 <img width="12" src="https://cdn-icons-png.flaticon.com/512/210/210545.png"><br><br>
 
-IDADE 21 - Sou de Forquilha-CE<br>
 Desenvolvedor web e sistemas !
 Amo TI
 
+
+<li>21y</li>
 <br>
 <b>Alguns Projetos desenvolvidos por conta própria.</b><br><br>
 <img src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/83c98be3-ca75-4007-8d14-7922acd99806" height=110>
