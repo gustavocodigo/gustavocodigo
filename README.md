@@ -1,6 +1,10 @@
 
 <b>Discord: </b>Gustavo Wallace#4656 <img width="12" src="https://cdn-icons-png.flaticon.com/512/210/210545.png"><br><br>
 
+
+I did my first helloworld 6 years ago
+<br>
+<br>
 Desenvolvedor web e sistemas !
 Amo TI
 <br>
