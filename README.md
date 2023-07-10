@@ -1,5 +1,5 @@
 
-<b>Discord: </b>Gustavo Wallace#4656 <img width="12" src="https://cdn-icons-png.flaticon.com/512/210/210545.png"><br><br>
+<b>Discord: </b><a href="https://discord.com/users/1032848324497248336">Gustavo Wallace#4656</a> <img width="12" src="https://cdn-icons-png.flaticon.com/512/210/210545.png"><br><br>
 
 
 
