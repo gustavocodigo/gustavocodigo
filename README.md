@@ -10,6 +10,7 @@ Amo TI
 <br>
 <b>Alguns Projetos desenvolvidos por conta própria.</b><br><br>
 
+
 <a href="https://gustavocodigo.github.io/TicTacToeGame/" target="__blank"> <img height="110" src="https://user-images.githubusercontent.com/108258194/238660982-ebb14e6f-ad3b-4198-b468-4dfecd26d9b0.png"></a>  <a href="https://github.com/gustavocodigo/Youtube-downloader"> <img height="110" src="https://github.com/gustavocodigo/gustavocodigo/assets/108258194/4d9401cf-1d82-46e6-8fc9-4f04dc8d5ca2"></a>
 <img src=https://github.com/gustavocodigo/gustavocodigo/assets/108258194/9f2c4eb0-439a-4def-b350-2cc5e25aa9c2 height=110>
 
@@ -17,8 +18,12 @@ Amo TI
 
 
   <ol>
+    
   <li><a href="https://github.com/gustavocodigo/Youtube-downloader">Youtube Video Downloader</a></li>
-   <li><a href="https://github.com/gustavocodigo/Academia-x1">Front de academia</a></li>
+   <li>
+     <a href="https://github.com/gustavocodigo/CodeLeap-test">CodeLeap CRUD Challeng </a></li>
+     <li>
+     <a href="https://github.com/gustavocodigo/Academia-x1">Front de academia</a></li>
     <li><a href="https://github.com/gustavocodigo/NexusRP-reward1">Front de Loja (para aplicação desktop)</a></li>
     <li><a href="https://github.com/gustavocodigo/ForquilhaProgramador">Front de website para negocios</a></li>
     <li><a href="https://github.com/gustavocodigo/TicTacToeGame/">TicTac Toe Game - Jogo da velha</a></li>
