@@ -29,7 +29,7 @@ Amo TI
     <li><a href="https://github.com/gustavocodigo/TicTacToeGame/">TicTac Toe Game - Jogo da velha</a></li>
  <li><a href="https://github.com/gustavocodigo/Pong-Game-ui-Canvas-Javascript/">PongGame - Jogo</a></li>
     
-  <li><a href="https://boatneck-swamp-universe.glitch.me/">Real Time Chat - Chat com websockets</a></li>
+  
   
     
  <li><a href="https://gustavocodigo.github.io/MyFrontEndRoadMap/">MyFrontEnd Roadmap</a></li>
