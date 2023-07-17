@@ -19,7 +19,7 @@ Amo TI
 
   <ol>
     <li>
-      <a href="https://smartchat-nu.vercel.app/">SmartChat - chat para nerdes</a></li>
+      <a href="https://smartchat-nu.vercel.app/">SmartChat - GPT chat para nerdes</a></li>
   <li><a href="https://github.com/gustavocodigo/Youtube-downloader">Youtube Video Downloader</a></li>
    <li>
      <a href="https://github.com/gustavocodigo/CodeLeap-test">CodeLeap CRUD Challeng </a></li>
