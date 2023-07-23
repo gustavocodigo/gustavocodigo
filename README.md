@@ -28,8 +28,6 @@ Amo TI
     
   
   
-    
- <li><a href="https://gustavocodigo.github.io/MyFrontEndRoadMap/">MyFrontEnd Roadmap</a></li>
 </ol>
 
 
