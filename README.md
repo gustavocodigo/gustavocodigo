@@ -103,7 +103,7 @@ Carga Horaria <b>120h</b> mais</p>
   
   <p align="center">
 
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
+  
 <hr>
 
 
